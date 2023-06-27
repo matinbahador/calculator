@@ -34,4 +34,7 @@ elif req == "**":
     result = power(a, b)
 else:
     print("Invalid operator")
+
     result = None
+
+print("Answer is: ", result)
